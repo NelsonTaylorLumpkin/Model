@@ -13,7 +13,7 @@
 
         public override string ToString()
         {
-            return $"A fanciful {Color} rose with {PetalCount} petals.";
+            return $"A grumpy {Color} cactus with {PetalCount} petals is showing out and being loud!";
         }
     }
  }

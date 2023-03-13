@@ -13,7 +13,7 @@ namespace FlowerShop
 
         public override string ToString()
         {
-            return $"A fanciful {Color} rose with {PetalCount} petals.";
+            return $"A haunted {Color} orchid with {PetalCount} petals and a dog-like yet human face begins growing out of the very top of your head.";
         }
     }
 }

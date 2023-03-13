@@ -14,7 +14,7 @@ namespace FlowerShop
 
         public override string ToString()
         {
-            return $"A fanciful {Color} rose with {PetalCount} petals.";
+            return $"A fanciful {Color} rose with {PetalCount} petals rapidly grows right out of your forehead.";
         }
     }
 
